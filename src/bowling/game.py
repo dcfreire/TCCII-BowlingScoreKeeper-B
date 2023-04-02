@@ -4,8 +4,6 @@ from bowling.frame import Frame
 
 
 class BowlingGame:
-    frames: List[Frame]
-    bonus: Frame
 
     def add_frame(self, frame: Frame):
         """ Add a frame to the game """

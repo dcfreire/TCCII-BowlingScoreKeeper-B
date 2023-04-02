@@ -3,7 +3,7 @@ Repositório base para experimento de TCC II relacionado a TDD.
 
 ## Instruções
 
-O objetivo é desenvolver uma aplicação que consegue calcular o placar de um jogo de boliche completo (de apenas um jogador). Não há uma interface gráfica. Você pode trabalhar apenas com classes/objetos e com testes unitários utilizando o pacote `unittesting` (pacote da biblioteca padrão Python). Você não precisa criar uma função `main`.
+O objetivo é desenvolver uma aplicação que consegue calcular o placar de um jogo de boliche completo (de apenas um jogador). Não há uma interface gráfica. Você pode trabalhar apenas com classes/objetos e com testes unitários utilizando o pacote `unittest` (pacote da biblioteca padrão Python). Você não precisa criar uma função `main`.
 
 O **game** (jogo em português) consiste de 10 **frames** (quadros em português) como mostrado mais abaixo. Em cada quadro/frame, o jogador tem duas oportunidades para derrubar 10 pinos. O **score** (placar em português) de cada quadro/frame é o total de número de pinos derrubados, mais a soma de bônus no caso de strikes e spares.
 
